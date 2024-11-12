@@ -15,7 +15,6 @@ class LocalStudentManagerTest {
     @Before
     fun tearUp() {
         manager = LocalStudentManager();
-        // TODO create an instance of the local student manager
     }
 
     @After
